@@ -1,6 +1,6 @@
 # CSC-221
 CSC 215: Computer Systems
 
-EOF
+### EOF
 
-I use arch btw
+I use arch btw 
