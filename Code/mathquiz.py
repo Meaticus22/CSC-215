@@ -12,5 +12,3 @@ else:
 
 print(f"The answer should have been {num1 * num2}.")
 
-print(f"The answer should have been {num1 * num2}.")
-
