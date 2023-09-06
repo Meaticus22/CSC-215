@@ -1,9 +1,11 @@
-from random import randint
+from random import randint 
 
 num1 = randint(1, 10)
 num2 = randint(1, 10)
-question = f"What is {num1} * {num2}? "
-
+question = f"What is {num1} * {num2}? " # the f string is for formatting
+''''
+you would use the f string with the brackets 
+''''
 for _ in range(2):
     answer = int(input(question))
 
