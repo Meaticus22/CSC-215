@@ -1,3 +1,4 @@
+# Fun Idea I had from an older repo; https://github.com/Meaticus22/Number-Game
 import random
 answer = random.randint(1,10)
 print("Guess the number from 1 to 10!")
